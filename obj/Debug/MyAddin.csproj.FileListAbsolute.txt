@@ -1,0 +1,8 @@
+C:\Users\sjak3\OneDrive\JAKK3 Lab\03_DEV\02_Templates\01_AECAddin\01_AutoCAD\MyAddin\MyAddin\bin\Debug\MyAddin.dll
+C:\Users\sjak3\OneDrive\JAKK3 Lab\03_DEV\02_Templates\01_AECAddin\01_AutoCAD\MyAddin\MyAddin\bin\Debug\MyAddin.pdb
+C:\Users\sjak3\OneDrive\JAKK3 Lab\03_DEV\02_Templates\01_AECAddin\01_AutoCAD\MyAddin\MyAddin\bin\Debug\AdWindows.dll
+C:\Users\sjak3\OneDrive\JAKK3 Lab\03_DEV\02_Templates\01_AECAddin\01_AutoCAD\MyAddin\MyAddin\obj\Debug\MyAddin.csproj.AssemblyReference.cache
+C:\Users\sjak3\OneDrive\JAKK3 Lab\03_DEV\02_Templates\01_AECAddin\01_AutoCAD\MyAddin\MyAddin\obj\Debug\MyAddin.csproj.CoreCompileInputs.cache
+C:\Users\sjak3\OneDrive\JAKK3 Lab\03_DEV\02_Templates\01_AECAddin\01_AutoCAD\MyAddin\MyAddin\obj\Debug\MyAddin.csproj.CopyComplete
+C:\Users\sjak3\OneDrive\JAKK3 Lab\03_DEV\02_Templates\01_AECAddin\01_AutoCAD\MyAddin\MyAddin\obj\Debug\MyAddin.dll
+C:\Users\sjak3\OneDrive\JAKK3 Lab\03_DEV\02_Templates\01_AECAddin\01_AutoCAD\MyAddin\MyAddin\obj\Debug\MyAddin.pdb
